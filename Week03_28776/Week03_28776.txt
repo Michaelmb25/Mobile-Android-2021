@@ -1,0 +1,1 @@
+ketika melakukan tambahan applikasi akan melakukan codingan pada activity main. java akan tetapi ketika kita melakukan spam maka akan diarahkan ke daftar kata. java dimana kita akan diberikan output pernah diklik atau dipilih

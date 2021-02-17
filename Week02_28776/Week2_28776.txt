@@ -1,0 +1,6 @@
+2.
+a. jika di klik akan terjadi errror pada app dan akan force close
+b. jika angka 2 dikosongkan juga akan terjadi error dan app akan force close
+c jika dikasih angka nol hasilnya akan keluar akan tetapi hasilnya infinity yang sjika di matematika semua angka yang dibagi nol itu tidak bisa 
+
+3. debugging yang saya pahami itu kita menentukan titik mana suatu program akan berjalan, kita akan menaruh titik pada line di program kita lalu ketika debugging maka program akan berjalan sampai dimana kita memberikan titik tersebut
